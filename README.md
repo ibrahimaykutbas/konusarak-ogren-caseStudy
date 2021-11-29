@@ -8,7 +8,6 @@ React Native
 
 ## Tools
 
-- Redux
 - React Navigation
 - Custom Hook
 - Axios
