@@ -27,7 +27,7 @@ Kullanılan API: The Rick and Morty API
 Bu depoyu yerel makinenizde klonlayın.
 
 ```
-git clone https://github.com/ibrahimaykutbas/konusarak-ogreniyorum-caseStudy.git
+git clone https://github.com/ibrahimaykutbas/konusarak-ogren-caseStudy.git
 ```
 
 ### Kullanım
@@ -35,7 +35,7 @@ git clone https://github.com/ibrahimaykutbas/konusarak-ogreniyorum-caseStudy.git
 Projeyi klonladıktan sonra kullanmak için:
 
 ```
-cd patika-react-native/konusarak-ogreniyorum-caseStudy
+cd patika-react-native/konusarak-ogren-caseStudy
 cd .
 ```
 
